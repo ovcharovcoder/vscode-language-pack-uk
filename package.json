@@ -2,11 +2,11 @@
 	"name": "vscode-language-pack-uk",
 	"displayName": "Ukrainian language pack for Visual Studio Code",
 	"description": "Language pack extension for Ukrainian",
-	"version": "1.98.0",
-	"publisher": "Andriy-Ovcharov",
+	"version": "1.0.0",
+	"publisher": "ovcharovcoder",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-loc"
+		"url": "https://github.com/ovcharovcoder/vscode-language-pack-uk"
 	},
 	"license": "SEE MIT LICENSE IN LICENSE.md",
 	"engines": {
