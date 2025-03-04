@@ -2,7 +2,7 @@
 	"name": "vscode-language-pack-uk",
 	"displayName": "Ukrainian language pack for Visual Studio Code",
 	"description": "Language pack extension for Ukrainian",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"publisher": "ovcharovcoder",
 	"repository": {
 		"type": "git",
