@@ -7,8 +7,8 @@
 ### Крок 1: Завантаження файлу
 
 1. Перейдіть до сторінки релізу на GitHub:  
-   [https://github.com/ovcharovcoder/vscode-language-pack-uk/releases/tag/v1.0.1](https://github.com/ovcharovcoder/vscode-language-pack-uk/releases/tag/v1.0.1).
-2. Знайдіть файл `ovcharovcoder.vscode-language-pack-uk-1.0.1.vsix` у секції **Assets**.
+   [https://github.com/ovcharovcoder/vscode-language-pack-uk/releases/tag/v1.0.0](https://github.com/ovcharovcoder/vscode-language-pack-uk/releases/tag/v1.0.0).
+2. Знайдіть файл `ovcharovcoder.vscode-language-pack-uk-1.0.0.vsix` у секції **Assets**.
 3. Натисніть на назву файлу, щоб завантажити його на свій комп’ютер.
 
 ### Крок 2: Встановлення в VS Code
