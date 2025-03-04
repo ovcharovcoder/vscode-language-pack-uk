@@ -9,22 +9,22 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Branch name": "Имя ветви",
-			"Choose a URL to clone from.": "Выберите URL-адрес, откуда требуется клонировать.",
-			"No remote repositories found.": "Удаленные репозитории не найдены.",
-			"Provide repository URL": "Укажите URL-адрес репозитория",
-			"Provide repository URL or pick a repository source.": "Укажите URL-адрес репозитория или выберите источник репозитория.",
-			"Repository name": "Имя репозитория",
-			"Repository name (type to search)": "Имя репозитория (введите текст для поиска)",
-			"URL": "URL-адрес",
-			"recently opened": "недавно открытые",
-			"remote sources": "удаленные источники",
-			"{0} Error: {1}": "{0}. Ошибка: {1}"
+			"Branch name": "Ім'я гілки",
+			"Choose a URL to clone from.": "Виберіть URL-адресу, з якої потрібно клонувати.",
+			"No remote repositories found.": "Видалені репозиторії не знайдені.",
+			"Provide repository URL": "Вкажіть URL-адресу репозиторію",
+			"Натисніть URL-адресу або клацніть джерело репозиторію.": "Вкажіть URL-адресу репозиторію або виберіть джерело репозиторію.",
+			"Repository name": "Ім'я репозиторію",
+			"Repository name (type to search)": "Ім'я репозиторію (введіть текст для пошуку)",
+			"URL": "URL-адреса",
+			"recently opened": "нещодавно відкриті",
+			"remote sources": "віддалені джерела",
+			"{0} Error: {1}": "{0}. Помилка: {1}"
 		},
 		"package": {
-			"command.api.getRemoteSources": "Получить удаленные источники",
-			"description": "Статические вклады и сборщики Git.",
-			"displayName": "База данных Git"
+			"command.api.getRemoteSources": "Отримати видалені джерела",
+			"description": "Статичні вклади та збирачі Git.",
+			"displayName": "База даних Git"
 		}
 	}
 }

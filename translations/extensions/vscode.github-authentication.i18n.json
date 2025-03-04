@@ -9,31 +9,31 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Continue to GitHub": "Перейти в GitHub",
-			"Continue to GitHub to create a Personal Access Token (PAT)": "Перейдите в GitHub, чтобы создать личный маркер доступа",
-			"Copy & Continue to GitHub": "Копировать и продолжить в GitHub",
-			"GitHub Enterprise Server URI is not a valid URI: {0}": "URI сервера GitHub Enterprise не является допустимым URI: {0}",
-			"Having trouble logging in? Would you like to try a different way? ({0})": "Проблемы со входом? Хотите попробовать другой способ? ({0})",
-			"No": "Нет",
-			"Open [{0}]({0}) in a new tab and paste your one-time code: {1}/The [{0}]({0}) will be a url and the {1} will be a code, e.g. 123-456{Locked=\"[{0}]({0})\"}": "Откройте [{0}]({0}) на новой вкладке и вставьте одноразовый код: {1}",
-			"Sign in failed: {0}": "Не удалось войти: {0}",
-			"Sign out failed: {0}": "Не удалось выйти: {0}",
-			"Signing in to {0}.../The {0} will be a url, e.g. github.com": "Выполняется вход в {0}...",
-			"To finish authenticating, navigate to GitHub and paste in the above one-time code.": "Чтобы завершить проверку подлинности, перейдите в GitHub и вставьте приведенный выше одноразовый код.",
-			"To finish authenticating, navigate to GitHub to create a PAT then paste the PAT into the input box.": "Чтобы завершить проверку подлинности, перейдите в GitHub для создания личного маркера доступа, а затем вставьте личный маркер доступа в поле ввода.",
-			"Yes": "Да",
-			"You have not yet finished authorizing this extension to use GitHub. Would you like to try a different way? ({0})": "Вы еще не завершили авторизацию этого расширения для использования GitHub. Хотите попробовать другой способ? ({0})",
+			"Continue to GitHub": "Перейти до GitHub",
+			"Натисніть на GitHub для створення Personal Access Token (PAT)": "Перейдіть до GitHub, щоб створити особистий маркер доступу",
+			"Copy & Continue to GitHub": "Копіювати та продовжити в GitHub",
+			"GitHub Enterprise Server URI не valid URI: {0}": "URI сервера GitHub Enterprise не є допустимим URI: {0}",
+			"Проблеми з входом? Хочете спробувати інший спосіб? ({0})": "Проблеми з входом? Хочете спробувати інший спосіб? ({0})",
+			"No": "Ні",
+			"Open [{0}]({0}) in a new tab and paste your one-time code: {1}/The [{0}]({0}) will be a url and the {1} will be a code, e.g. 123-456{Locked=\"[{0}]} одноразовий код: {1}": "Відкрийте [{0}]({0}) у новій вкладці та вставте свій одноразовий код: {1}",
+			"Sign in failed: {0}": "Не вдалося увійти: {0}",
+			"Sign out failed: {0}": "Не вдалося вийти: {0}",
+			"Signing in to {0}.../The {0} will be a url, e.g. github.com": "Виконується вхід до {0}...",
+			"Для завершення автентифікації, навігації до GitHub і paste в одному таймері.": "Щоб завершити автентифікацію, перейдіть до GitHub і вставте наведений вище одноразовий код.",
+			"Для завершення authenticating, навігації до GitHub для створення PAT буде запущено PAT в box.": "Щоб завершити автентифікацію, перейдіть до GitHub для створення особистого маркера доступу, а потім вставте особистий маркер доступу в поле введення.",
+			"Yes": "Так",
+			"Ви не маєте змоги дотримуватися автентифікації цього extension для використання GitHub. Ви не можете зробити різні способи? ({0})": "Ви ще не завершили авторизацію цього розширення для використання GitHub. Хочете спробувати інший спосіб? ({0})",
 			"Your Code: {0}/The {0} will be a code, e.g. 123-456": "Ваш код: {0}",
-			"device code": "код устройства",
-			"local server": "локальный сервер",
-			"personal access token": "личный маркер доступа",
-			"url handler": "обработчик URL-адресов"
+			"device code": "код пристрою",
+			"local server": "локальний сервер",
+			"Personal Access Token": "Особистий маркер доступу",
+			"url handler": "обробник URL-адрес"
 		},
 		"package": {
-			"config.github-enterprise.title": "GHE.com и GitHub Enterprise проверку подлинности сервера",
-			"config.github-enterprise.uri.description": "URI для экземпляра GHE.com или GitHub Enterprise Server.\r\n\r\nПримеры:\r\n* GHE.com: 'https://octocat.ghe.com`\r\n* GitHub Enterprise server: 'https://github.octocat.com`\r\n\r\n> **Примечание.** Для этого параметра _not_ должно быть задано значение GitHub.com URI. Если ваша учетная запись существует в GitHub.com или является GitHub Enterprise управляемым пользователем, вам не требуется дополнительная настройка и вы можете просто войти в GitHub.",
-			"description": "Поставщик проверки подлинности GitHub",
-			"displayName": "Проверка подлинности GitHub"
+			"config.github-enterprise.title": "GHE.com та GitHub Enterprise перевірку автентичності сервера",
+			"config.github-enterprise.uri.description": "URI для екземпляра GHE.com або GitHub Enterprise Server.\r\n\r\nПриклади:\r\n* GHE.com: 'https://octocat.ghe.com`\r\n* GitHub Enterprise server: 'https://github.oc>** t_ має бути задано значення GitHub.com URI. Якщо ваш обліковий запис існує в GitHub.com або є GitHub Enterprise керованим користувачем, вам не потрібно додаткове налаштування і ви можете просто увійти до GitHub.",
+			"description": "Постачальник автентифікації GitHub",
+			"displayName": "Перевірка автентичності GitHub"
 		}
 	}
 }

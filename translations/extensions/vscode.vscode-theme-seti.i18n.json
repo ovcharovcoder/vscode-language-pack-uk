@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Тема значков файлов на основе значков файлов пользовательского интерфейса Seti",
-			"displayName": "Тема значков файлов Seti",
-			"themeLabel": "Seti (Visual Studio Code)"
+			"description": "Тема значків файлів на основі значків файлів інтерфейсу користувача Seti",
+			"displayName": "Тема піктограм файлів Seti",
+			"ThemeLabel": "Seti (Visual Studio Code)"
 		}
 	}
 }
