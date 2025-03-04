@@ -190,7 +190,6 @@
 			"configuration.tsserver.watchOptions.watchDirectory.useFsEvents": "Намагається використовувати вбудовані події операційної системи або файлової системи для відстеження змін у каталогах.",
 			"configuration.tsserver.watchOptions.watchFile": "Стратегія відстеження змін окремих файлів.",
 			"configuration.tsserver.watchOptions.watchFile.dynamicPriorityPolling": "Використовуйте динамічну чергу: що рідше змінюються файли, то рідше вони перевіряються.",
-
 			"configuration.tsserver.watchOptions.watchFile.fixedChunkSizePolling": "Регулярно опитує файли по блоках.",
 			"configuration.tsserver.watchOptions.watchFile.fixedPollingInterval": "Перевіряє кожен файл на наявність змін кілька разів на секунду із фіксованим інтервалом.",
 			"configuration.tsserver.watchOptions.watchFile.priorityPollingInterval": "Перевіряє кожен файл на наявність змін кілька разів на секунду, але з використанням евристики, щоб певні типи файлів перевіряти рідше за інші.",
@@ -315,7 +314,6 @@
 			"typescript.tsc.autoDetect.off": "Вимкнути цю функцію.",
 			"typescript.tsc.autoDetect.on": "Створювати завдання компіляції та перегляду.",
 			"typescript.tsc.autoDetect.watch": "Створювати лише завдання компіляції у режимі перегляду.",
-
 			"typescript.tsdk.desc": "Вказує шлях до файлів \"tsserver\" і \"lib*.d.ts\" у встановленні TypeScript, що використовується для IntelliSense, наприклад: ./node_modules/typescript/lib.\r\n\r\n— Якщо вказати як користувацький параметр, версія TypeScript із файлу typescript.tsdk автоматично замінить вбудовану версію TypeScript.\r\n— Якщо вказати як параметр робочої області, typescript.tsdk дозволяє переключитися на використання цієї версії TypeScript для IntelliSense за допомогою команди \"TypeScript: вибрати версію TypeScript\".\r\n\r\nДодаткову інформацію про керування версіями TypeScript дивіться в [документації по TypeScript](https://code.visualstudio.com/docs/typescript/typescript-compiling#_using-newer-typescript-versions).",
 			"typescript.tsserver.enableRegionDiagnostics": "Увімкнути діагностику на основі регіону в TypeScript. Потрібно використовувати TypeScript 5.6+ у робочій області.",
 			"typescript.tsserver.enableTracing": "Увімкнути трасування продуктивності сервера TS у каталог. Ці файли трасування можна використовувати для діагностики проблем з продуктивністю сервера TS. У журналі можуть бути шляхи до файлів, вихідний код та інша інформація з вашого проєкту, в тому числі конфіденційна.",

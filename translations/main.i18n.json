@@ -260,7 +260,7 @@
 			"unchangedLine": "{0} незмінений рядок {1}"
 		},
 		"vs/editor/browser/widget/diffEditor/components/diffEditorEditors": {
-			"diff-aria-navigation-tip": " використовуйте {0}, щоб відкрити довідку щодо спеціальних можливостей."
+			"diff-aria-navigation-tip": "використовуйте {0}, щоб відкрити довідку щодо спеціальних можливостей."
 		},
 		"vs/editor/browser/widget/diffEditor/components/diffEditorViewZones/inlineDiffDeletedCodeMargin": {
 			"diff.clipboard.copyChangedLineContent.label": "Копіювати змінений рядок ({0})",
@@ -3450,7 +3450,6 @@
 			"hideEditorActonsDescription": "Сховати дії редактора на вкладці та в заголовку вікна",
 			"hideEditorTabs": "Сховати вкладки редактора",
 			"hideEditorTabsDescription": "Сховати панель вкладок",
-
 			"hideEditorTabsZenMode": "Сховати вкладки редактора в режимі \"Дзен\"",
 			"hideEditorTabsZenModeDescription": "Сховати панель вкладок в режимі Zen",
 			"increaseEditorHeight": "Збільшити висоту редактора",
@@ -7001,9 +7000,9 @@
 			"miRestart Debugging": "&&Перезапустити відладку",
 			"miRun": "Запуск &&без відладки",
 			"miStartDebugging": "&&Запустити відладку",
-			"miStepInto": "Ш&&аг з заходом",
-			"miStepOut": "Шаг з &&виходом",
-			"miStepOver": "Шаг з о&&бходом",
+			"miStepInto": "К&&рок з заходом",
+			"miStepOut": "Крок з &&виходом",
+			"miStepOver": "Крок з о&&бходом",
 			"miStopDebugging": "&&Зупинити відладку",
 			"miToggleDebugConsole": "Ко&&нсоль відладки",
 			"miViewRun": "&&Виконати",
@@ -12760,7 +12759,6 @@
 			"terminal.integrated.focusAfterRun.terminal": "Завжди наводити фокус на термінал.",
 			"terminal.integrated.fontFamily": "Визначає сімейство шрифтів термінала. Значення за замовчуванням — {0}.",
 			"terminal.integrated.fontLigatures.enabled": "Керує включенням лігатур шрифтів у терміналі. Лігатури працюватимуть лише тоді, якщо налаштований {0} їх підтримує.",
-
 			"terminal.integrated.fontLigatures.fallbackLigatures": "Якщо {0} увімкнено і конкретні {1} не вдається проаналізувати, це набір послідовностей символів, які завжди будуть малюватися разом. Це дозволяє використовувати фіксований набір лігатур, навіть якщо шрифт не підтримується.",
 			"terminal.integrated.fontLigatures.featureSettings": "Керує тим, які параметри функцій шрифта використовуються при включенні лігатур у форматі властивості CSS \"font-feature-settings\". Деякі приклади, які можуть бути допустимими в залежності від шрифта:",
 			"terminal.integrated.fontSize": "Керує розміром шрифта в пікселях для термінала.",
@@ -12776,7 +12774,6 @@
 			"terminal.integrated.ignoreBracketedPasteMode": "Визначає, чи буде термінал ігнорувати режим вставки в квадратних дужках, навіть якщо термінал був переведений у цей режим, пропускаючи послідовності {0} і {1} при вставці. Це зручно, якщо оболонка не дотримується режиму. Наприклад, це може статися у вкладених оболонках.",
 			"terminal.integrated.letterSpacing": "Визначає міжбуквений інтервал термінала. Це ціле число, що представляє кількість додаткових пікселів, які будуть додаватися між символами.",
 			"terminal.integrated.lineHeight": "Визначає висоту рядка термінала. Це число множиться на розмір шрифта термінала, що дає фактичну висоту рядка в пікселях.",
-
 			"terminal.integrated.macOptionClickForcesSelection": "Визначає, чи слід примусово виконувати вибір при використанні комбінації Option + клік у macOS. При цьому буде примусово використано звичайний (рядковий) вибір і заборонено режим вибору стовпців. Це дозволяє копіювати та вставляти за допомогою звичайного вибору в терміналі, наприклад, коли режим миші увімкнений у tmux.",
 			"terminal.integrated.macOptionIsMeta": "Визначає, чи слід вважати клавішу параметра мета-клавішею в терміналі під управлінням macOS.",
 			"terminal.integrated.middleClickBehavior": "Визначає, як термінал реагує на клік середньою кнопкою миші.",
