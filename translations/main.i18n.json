@@ -51,7 +51,7 @@
 			"alertWarningMessage": "Попередження: {0}",
 			"clearedInput": "Очищені вхідні дані",
 			"history.inputbox.hint.suffix.inparens": " ({0} для журналу)",
-			"history.inputbox.hint.suffix.noparens": " или {0} для журналу"
+			"history.inputbox.hint.suffix.noparens": " або {0} для журналу"
 		},
 		"vs/base/browser/ui/keybindingLabel/keybindingLabel": {
 			"unbound": "вільний"
@@ -7132,7 +7132,7 @@
 			"miEditBreakpoint": "&&Редагувати точку зупину…",
 			"miLogPoint": "&&Точка ведення журналу…",
 			"miToggleBreakpoint": "Перек&&лючити точку зупину",
-			"miTriggerByBreakpoint": "&Активна точка зупину...",
+			"miTriggerByBreakpoint": "&&Активна точка зупину...",
 			"mitogglesource": "&&Переключити вихідний код",
 			"openDisassemblyView": "Відкрити представлення дизасемблювання",
 			"runToCursor": "Виконати до курсору",
