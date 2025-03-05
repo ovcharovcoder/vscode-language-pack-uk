@@ -13590,7 +13590,7 @@
 			"browseProductIconThemes": "Огляд додаткових тем значка продукту…",
 			"cannotToggle": "Не вдається переключитися між світлою та темною темами, якщо параметр \"{0}\" увімкнений у налаштуваннях.",
 			"defaultProductIconThemeLabel": "За замовчуванням",
-			"fileIconThemeCategory": "теми значка файлу",
+			"fileIconThemeCategory": "теми значків файлів",
 			"generateColorTheme.label": "Створити колірну тему на основі поточних параметрів",
 			"goToSetting": "Відкрити параметри",
 			"installColorThemes": "Встановити додаткові колірні теми...",
