@@ -37,7 +37,7 @@
 
 ## Ліцензія
 
-На вихідний код та рядки поширюється ліцензія [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md).
+На вихідний код поширюється ліцензія [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md).
 
 **Приємної роботи!**
 
