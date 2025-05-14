@@ -35,6 +35,11 @@
 
 Пакет підтримує VS Code версії 1.97.0 і вище. Перевірте свою версію в меню **Довідка > Про програму**.
 
+## Переклад
+
+- Андрій Овчаров
+- E-mail: datoshcode@gmail.com
+
 ## Ліцензія
 
 На вихідний код поширюється ліцензія [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md).
