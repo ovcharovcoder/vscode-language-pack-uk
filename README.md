@@ -46,9 +46,9 @@
 - Дата перекладу: 04.03.2025.
 - E-mail: datoshcode@gmail.com
 
-## Ліцензія
+ ## Ліцензія
 
-На вихідний код поширюється ліцензія [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md).
+<a href="LICENSE">MIT</a>
 
 ## ☕ Сподобався переклад українською? 
 Пригостіть кавою через [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
