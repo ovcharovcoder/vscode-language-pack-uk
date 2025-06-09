@@ -50,6 +50,11 @@
 
 На вихідний код поширюється ліцензія [MIT](https://github.com/Microsoft/vscode-loc/blob/master/LICENSE.md).
 
+## ☕ Сподобався переклад українською? 
+Пригостіть кавою через [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
+
+
+
 **Дякую за підтримку та бажаю приємної роботи з VS Code українською!**
 
 <img src="1.jpg" alt="banner">
