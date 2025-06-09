@@ -53,7 +53,7 @@
 ## ☕ Сподобався переклад українською? 
 Пригостіть кавою через [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
 
-
+<br>
 
 **Дякую за підтримку та бажаю приємної роботи з VS Code українською!**
 
