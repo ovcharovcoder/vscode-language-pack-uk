@@ -46,9 +46,6 @@
 - Дата перекладу: 04.03.2025.
 - E-mail: datoshcode@gmail.com
 
- ## Ліцензія
-
-<a href="LICENSE">MIT</a>
 
 ## ☕ Сподобався переклад українською? 
 Пригостіть кавою через [PayPal](https://www.paypal.com/donate/?business=datoshcode@gmail.com)
@@ -58,3 +55,7 @@
 **Дякую за підтримку та бажаю приємної роботи з VS Code українською!**
 
 <img src="1.jpg" alt="banner">
+
+ ## Ліцензія
+
+<a href="LICENSE">MIT</a>
