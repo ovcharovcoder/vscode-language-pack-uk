@@ -54,7 +54,7 @@
 
 **Дякую за підтримку та бажаю приємної роботи з VS Code українською!**
 
-<img src="1.jpg" alt="banner">
+<img src="1.jpg" style="width: 300px" alt="banner">
 
  ## Ліцензія
 
